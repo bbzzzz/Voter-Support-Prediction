@@ -18,3 +18,5 @@ Two machine learning models are trained and tested:
 - Gradient Boosting using xgboost
 
 Model performance is measured by AUC score. Final model AUC: 0.921.
+
+Upon the results of prediction model, several suggestions are made to end users at different levels, which can be found in the summary report.
