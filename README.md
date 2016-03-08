@@ -16,3 +16,5 @@ The main work I did in the process of building the predictive model:
 Two machine learning models are trained and tested:
 - Random Forest
 - Gradient Boosting using xgboost
+
+Model performance is measured by AUC score. Final model AUC: 0.921.
