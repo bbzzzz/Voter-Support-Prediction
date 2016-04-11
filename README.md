@@ -13,7 +13,7 @@ The main work I did in the process of building the predictive model:
 - Cross validation
 - Optimal threshold value selection
 
-One machine learning model are trained and tested:
+One machine learning model is trained and tested:
 - Gradient Boosted Tree using xgboost
 
 Model performance is measured by AUC score. Final model AUC: 0.921.
